@@ -8,15 +8,13 @@ Each kata lives in a folder nested within its kyu
 ```ascii
 ├── 8-kyu/
 │   ├── kata 1/
-│   │   ├── main.c
-|   |   ├── test.c
+│   │   ├── solution.c
 │   │   └── readme.md
 │   └── ...
 │
 ├── 7-kyu/
 │   ├── kata 1/
-│   │   ├── main.c
-|   |   ├── test.c
+│   │   ├── solution.c
 │   │   └── readme.md
 │   └── ...
 ```
